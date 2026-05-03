@@ -2,7 +2,7 @@ function onFormSubmit(e) {
   try {
     // === KONFIGURASI ===
     const token = "8295826297:AAG7EzRNYtgKAr92K1ND1wVVbqkWqIwEXkw"; // Token Bot Telegram
-    const chatId = "1704985763"; // ID chat / grup tujuan
+    const chatId = "392836663"; // ID chat / grup tujuan
 
     // === AMBIL SHEET & DATA ===
     const sheet = SpreadsheetApp.getActiveSpreadsheet().getSheetByName("data");
