@@ -1,7 +1,7 @@
 function onFormSubmit(e) {
   try {
     // === KONFIGURASI ===
-    const token = "8295826297:AAG7EzRNYtgKAr92K1ND1wVVbqkWqIwEXkw"; // Token Bot Telegram
+    const token = "8608675465:AAGq_FIAK1h81qIcXd1KcjpvRHCjRH2O8Ww"; // Token Bot Telegram
     const chatId = "392836663"; // ID chat / grup tujuan
 
     // === AMBIL SHEET & DATA ===
